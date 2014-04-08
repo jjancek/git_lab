@@ -9,3 +9,5 @@ git clone - clones original and works sperately
 git merge - merges 2 or more branches with ammended work to the origin
 
 git command - list all the commands for git (in terminal)
+
+This is my change
